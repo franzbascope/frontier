@@ -1,0 +1,14 @@
+{
+    "name": "isg/frontiersdk",
+    "description": "Gateway to Frontier Acceleration API",
+    "type": "library",
+    "require": {
+        "monolog/monolog": "^2.2"
+    },
+    "authors": [
+        {
+            "name": "Franz Bascope",
+            "email": "fbascope@isg.us"
+        }
+    ]
+}
