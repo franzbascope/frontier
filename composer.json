@@ -1,5 +1,5 @@
 {
-    "name": "isg/frontiersdk",
+    "name": "isgtest/frontiersdk",
     "description": "Gateway to Frontier Acceleration API",
     "type": "package",
     "require": {
