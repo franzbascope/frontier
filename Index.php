@@ -1,7 +1,7 @@
 <?php
 
 
-namespace isg\frontiersdk;
+namespace isgtest/frontiersdk;
 
 
 class Index
